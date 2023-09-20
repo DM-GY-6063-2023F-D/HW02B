@@ -4,11 +4,13 @@ Recreating some Kazimir Malevich paintings.
 
 ## HW02B01
 
-I decided to implement this one using quads. I mentally divided the painting into a 20 x 20 grid and used those points to best approximate the quad vertices.
+I decided to implement this one using quads. I mentally divided the painting into a 20 x 20 grid and used those points to best approximate ```quad()``` vertices as a percentage of the painting width and height:
+
+![](./imgs/HW02B01.jpg)
 
 ## HW02B02
 
-
+I used a similar strategy to implement this one. I divided the painting in a 20 x 20 grid and approximated the vertices of the ```quad()``` shapes as a percentage of the width or height. This one had more straight rectangles and was a little bit easier.
 
 ## HW02B03
 
