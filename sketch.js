@@ -14,9 +14,6 @@ let kazBlueLite = "#1460a4";
 let kazBrown = "#864634";
 
 
-// yellow_dark: "#efa917",
-
-
 function setup() {
   createCanvas(paintingWidth + 2 * 20, paintingHeight * 3 + 4 * 20);
 }
